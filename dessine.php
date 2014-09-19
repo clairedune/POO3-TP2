@@ -183,15 +183,15 @@
 	{   
   		if($forme=='rectangle')
 		{
-			echo $rect;	
+			$rect->affichage();	
 		}
 		elseif($forme=='cercle')
 		{
-			echo $cercle;
+			$cercle->affichage();
 		}
 		elseif($forme=='carre')
 		{
-			echo $carre;
+			$carre->affichage();
 		}
 	}
 ?>
