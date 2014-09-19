@@ -9,7 +9,7 @@
 
 require_once("source/Forme.php");
 
-class Rectangle extends Forme
+class Rectangle
 {
 	// attributs prives
 	private $_largeur;	
