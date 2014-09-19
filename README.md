@@ -79,7 +79,18 @@ La classe fille **Carre** dérive de la classe **Rectangle**. La classe *Rectang
 2. Dans le fichier **index.php**, instancier cette classe et testez ses méthodes.
 
 
+##5. Utilisation de la classe **Display** et du script **dessine.php** 
 
+Avec le code de ce TP, vous avez reçu deux fichiers, un fichier Display.php et un fichier dessine.php. 
 
+Une fois que vos classes sont construites, essayez d'ouvrir le fichier dessine.php dans votre navigateur. 
+
+*ATTENTION : Pour pouvoir faire cette exercice, vous devez avoir suivi parfaitement le diagramme de classe, à la lettre près.*
+
+##6. Classe fille Triangle
+
+1. Rajoutez une classe fille *Triangle* à la classe *Forme*.
+2. Testez la dans index.php
+3. Complétez les fichiers dessine.php et Display.php pour pouvoir afficher aussi des triangles.
 
 
