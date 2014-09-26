@@ -17,6 +17,7 @@ Dans ce TP, nous allons modifier la classe Rectangle et créer la classe mère F
 
 ## 1.Définition de la classe abstraite **Forme** 
 
+
 La classe **Forme** est la classe mère pour toutes les formes géométriques. C'est une classe **abstraite**. Elle contient 
 - les attributs : 
   - l'abscisse x ;
@@ -30,7 +31,9 @@ La classe **Forme** est la classe mère pour toutes les formes géométriques. C
 Les fonctions de calcule de l'aire et du périmètre sont **obligatoires** pour toutes les formes géométriques mais on ne peut pas les définir dans une classe générique car elle sont spécifique à chaque forme.
 
 1. Téléchargez le répertoire  **POO-TP2**, en local sur vos machine, dans votre répertoire de travail habituel (www ou htdocs). *Attention ! Donnez bien les droits en écriture à tous sur le répertoire, sinon on ne pourra pas afficher les images*.
-2. Dans le fichier Forme.php, définissez la classe **abstraite** **Forme**. 
+2. Dans le fichier Forme.php, définissez la classe Forme. Elle contient pour l'instant deux attributs x et y et 4 methodes, le constructeur de la classe getX getY, et affichage.
+3. Testez le constructeur de la classe et les methodes dans le fichier index.php.
+4. Définissez deux méthodes abstraites supplémentaires aire et perimetre et la classe **abstraite** **Forme**. 
 
 ```
 <?php
