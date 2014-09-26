@@ -12,7 +12,7 @@ On veut faire un programme de dessins géométriques. Il doit permettre de dessi
 #Enoncé du TP
 
 
-Dans ce TP, nous allons créer modifier la classe Rectangle et créer la classe mère Forme et les classes filles Cercle, Carre et Rectangle en respectant le diagramme de classe proposé au TD2. 
+Dans ce TP, nous allons modifier la classe Rectangle et créer la classe mère Forme et les classes filles Cercle, Carre et Rectangle en respectant le diagramme de classe proposé au TD2. 
 
 
 ## 1.Définition de la classe abstraite **Forme** 
